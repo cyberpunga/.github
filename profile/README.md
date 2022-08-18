@@ -40,10 +40,10 @@ Este es un ejercicio de escritura colaborativa y poesía aleatoria inspirado en 
 Esta es una versión electrónica de "Mil versos chilenos", una compilación de poesía chilena elaborada por Felipe Cussen y Marcela Labraña. Esta versión intenta implementar los conceptos elaborados en el libro: un flujo infinito de versos de la memoria colectiva, fáciles de compartir; y la posibilidad de seguir creciendo la colección.
 
 <p align="center">
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333415-5f5db0e9-6d5e-4596-8217-5c7b6676e4e3.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333420-76a2b147-545d-438e-b203-32e3f96e6a7c.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333421-d44e7dbc-a423-4d9a-a54d-341b5103d137.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333426-67d10539-be8e-4870-b6fc-7dc20689908b.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333415-5f5db0e9-6d5e-4596-8217-5c7b6676e4e3.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333420-76a2b147-545d-438e-b203-32e3f96e6a7c.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333421-d44e7dbc-a423-4d9a-a54d-341b5103d137.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333426-67d10539-be8e-4870-b6fc-7dc20689908b.png" />
 </p>
 
 ## `el nuevo método de los delincuentes` ([ver demo](https://cyberpun.ga/el-nuevo-método-de-los-delincuentes))
@@ -75,8 +75,8 @@ _Crea tus propias noticias para compartir_. Este es el primer generador de notic
 Este es un experimento de visualización de audio que se encuentra bajo intenso desarrollo, sin embargo ya está siendo utilizado por algunos actores locales. Actualmente consiste en tomar salida de getUserMedia (video/webcam y audio/micrófono) y conectarla con videoTexture y AudioAnalyser de THREE para conseguir video audio-reactivo.
 
 <p align="center">
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="./img/lorea1.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="./img/lorea2.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="./img/lorea6.png" />
-    <img style="object-fit: cover; width: 320px; height: 180px;" src="./img/lorea9.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334826-17c7b223-42ba-45a3-ba91-b50c0f8576e9.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334830-61cd41c4-991f-4a4f-9c0c-a89c7776eb4a.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334834-e521befa-1e32-449d-8f4c-75735162494a.png" />
+    <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334851-1e61f844-305a-499d-a10b-bdb5db32fde0.png" />
 </p>
