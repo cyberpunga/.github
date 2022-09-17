@@ -14,9 +14,9 @@
 dMP      VMMMP" dMP dMP  VMMMP" dMP dMP
 ```
 
-## `sheetpoetry.xyz` ([ver demo](https://sheetpoetry.xyz))
+## 🎊 `sheetpoetry.xyz` ([demo](https://sheetpoetry.xyz) y [código](https://github.com/piducancore/sheetpoetry.xyz))
 
-Esta es una API GraphQL para generar poemas desde celdas seleccionadas al azar en una hoja de cálculo de Google. Este proyecto fue construído como base para cumatron.
+Esta es una API GraphQL para generar poemas desde celdas seleccionadas al azar en una hoja de cálculo de Google. Este proyecto fue construído como base para **cumatron**.
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185327086-d358f421-5907-4919-a9ed-a6f8b7391262.png" />
@@ -25,9 +25,9 @@ Esta es una API GraphQL para generar poemas desde celdas seleccionadas al azar e
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185329592-9a60bb72-4fe6-4946-b624-1f075a99527b.png" />
 </p>
 
-## `cumatron.win` ([ver demo](https://cumatron.win))
+## 🤖 `cumatron.win` ([demo](https://cumatron.win) y [código](https://github.com/cyberpunga/cumatron))
 
-Este es un ejercicio de escritura colaborativa y poesía aleatoria inspirado en el libro "Cien mil millones de poemas" de Raymond Queneau. Este trabajo lo desarrollé junto a los poetas locales Jonatan Opazo y Rodrigo Figueroa, y fue exhibido en la 39° Feria Internacional del Libro de Oaxaca, México; en el pabellón de Broken English para The Wrong de 2019 - 2020; y fué destacado por la revista Medio Rural en marzo de 2020. **`cumatron`** existe en su sitio web [cumatron.win](https://cumatron.win), donde recita su poesía en el vacío; y en su cuenta de Twitter [@cumatron_win](https://twitter.com/cumatron_win), donde comparte imágenes de manera autónoma sin supervisión alguna, cada 8 horas, desde agosto de 2018.
+Este es un ejercicio de escritura colaborativa y poesía aleatoria inspirado en **_Cien mil millones de poemas_** de Raymond Queneau. Este trabajo lo desarrollamos en conjunto con los autores **Jonatan Opazo** y **Rodrigo Figueroa**, y fue exhibido en la **39° Feria Internacional del Libro de Oaxaca**, México; en el pabellón de **Broken English** para **The Wrong Biennale** de 2019 - 2020; también fué destacado por la revista [Medio Rural](https://mediorural.cl/maquinas-solas-en-el-fin-de-la-poesia/) e incluso fué entrevistado por **Álvaro Gaete** para la revista [Jámpster](https://jampster.cl/que-aburrido-ser-original-una-conversacion-con-cumatron-bot-y-poeta/).
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185330731-e22b025c-6e20-4253-a02e-3b4e1c49aa01.png" />
@@ -35,9 +35,11 @@ Este es un ejercicio de escritura colaborativa y poesía aleatoria inspirado en 
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185330707-59fb2682-c50d-4c3f-a9b2-d1405802c95a.png" />
 </p>
 
-## `1000` ([ver demo](https://cyberpun.ga/1000))
+**cumatron** existe en su sitio web [cumatron.win](https://cumatron.win), donde recita su poesía en el vacío; y en su cuenta de Twitter [@cumatron_win](https://twitter.com/cumatron_win), donde comparte imágenes de manera autónoma sin supervisión humana, cada 8 horas, desde agosto de 2018.
 
-Esta es una versión electrónica de "Mil versos chilenos", una compilación de poesía chilena elaborada por Felipe Cussen y Marcela Labraña. Esta versión intenta implementar los conceptos elaborados en el libro: un flujo infinito de versos de la memoria colectiva, fáciles de compartir; y la posibilidad de seguir creciendo la colección.
+## 🪶 `1000` ([demo](https://cyberpun.ga/1000) y [código](https://github.com/cyberpunga/1000))
+
+Esta es una versión electrónica de **_Mil versos chilenos_**, una compilación de poesía chilena elaborada por **Felipe Cussen** y **Marcela Labraña**. Esta versión intenta implementar los conceptos elaborados en el libro: un flujo infinito de versos de la memoria colectiva, fáciles de compartir; y la posibilidad de seguir creciendo la colección.
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333415-5f5db0e9-6d5e-4596-8217-5c7b6676e4e3.png" />
@@ -46,9 +48,9 @@ Esta es una versión electrónica de "Mil versos chilenos", una compilación de 
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333426-67d10539-be8e-4870-b6fc-7dc20689908b.png" />
 </p>
 
-## `el nuevo método de los delincuentes` ([ver demo](https://cyberpun.ga/el-nuevo-método-de-los-delincuentes))
+## 🔫 `el nuevo método de los delincuentes` ([demo](https://cyberpun.ga/el-nuevo-método-de-los-delincuentes) y [código](https://github.com/cyberpunga/el-nuevo-metodo-de-los-delincuentes))
 
-Este es un ejercicio en poesía concreta compuesto por cien versos obtenidos al googlear la frase que titula el proyecto: "El nuevo método de los delincuentes". Los versos son distribuídos al azar en un plano tridimensional acompañados de audio posicional. Este proyecto fué construído para una colaboración entre el colectivo maulino cyberpunga y la Red de Hyperpoesía Arenales de Perú.
+Este es un ejercicio en poesía concreta compuesto por cien versos obtenidos al _googlear_ la frase que titula el proyecto: _**El nuevo método de los delincuentes**_. Los versos son distribuídos al azar en un plano tridimensional acompañados de audio posicional. Este proyecto fué construído para una colaboración entre el colectivo maulino **cyberpunga** y la **Red de Hyperpoesía Arenales** de Perú.
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333755-5fa50df9-7b79-4c12-b0e7-4258f32ebd57.png" />
@@ -57,11 +59,9 @@ Este es un ejercicio en poesía concreta compuesto por cien versos obtenidos al 
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333770-4bcdf325-0c2d-470d-a332-c8f82a5c728c.png" />
 </p>
 
-## `lun` ([ver demo](https://cyberpun.ga/lun))
+## 📰 `lun` ([demo](https://cyberpun.ga/lun) y [código](https://github.com/cyberpunga/lun))
 
-_Crea tus propias noticias para compartir_. Este es el primer generador de noticias de **`cyberpunga`**, parte de una serie de generadores inspirados en la estética de los medios de masas nacionales.
-
-
+_Crea tus propias noticias para compartir_. Este es el primer hacedor de noticias de **cyberpunga**, parte de una serie inspirada en la estética de los medios de masas nacionales.
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334100-215adb76-18f3-4fd3-b27e-cc9f436153b9.png" />
@@ -70,9 +70,9 @@ _Crea tus propias noticias para compartir_. Este es el primer generador de notic
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334132-6a146d08-c648-4550-bd06-24344e692664.png" />
 </p>
 
-## `lorea` ([ver demo](https://cyberpun.ga/lorea))
+## 📺 `lorea` ([demo](https://cyberpun.ga/lorea) y [código](https://github.com/cyberpunga/lorea))
 
-Este es un experimento de visualización de audio que se encuentra bajo intenso desarrollo, sin embargo ya está siendo utilizado por algunos actores locales. Actualmente consiste en tomar salida de getUserMedia (video/webcam y audio/micrófono) y conectarla con videoTexture y AudioAnalyser de THREE para conseguir video audio-reactivo.
+Este es un experimento de visualización de audio que se encuentra bajo intenso desarrollo. Actualmente consiste en tomar la salida de `getUserMedia` (cámara y micrófono) y conectarla con `videoTexture` y `AudioAnalyser` de `THREE` para conseguir vídeo _audio-reactivo_.
 
 <p align="center">
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185334826-17c7b223-42ba-45a3-ba91-b50c0f8576e9.png" />
