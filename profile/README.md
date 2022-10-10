@@ -48,7 +48,7 @@ Esta es una versión electrónica de **_Mil versos chilenos_**, una compilación
     <img style="height: 180px;" src="https://user-images.githubusercontent.com/11337928/185333426-67d10539-be8e-4870-b6fc-7dc20689908b.png" />
 </p>
 
-## 🔫 `el nuevo método de los delincuentes` ([demo](https://cyberpun.ga/el-nuevo-método-de-los-delincuentes) y [código](https://github.com/cyberpunga/el-nuevo-metodo-de-los-delincuentes))
+## 🔫 `el nuevo método de los delincuentes` ([demo](https://cyberpun.ga/el-nuevo-metodo-de-los-delincuentes) y [código](https://github.com/cyberpunga/el-nuevo-metodo-de-los-delincuentes))
 
 Este es un ejercicio en poesía concreta compuesto por cien versos obtenidos al _googlear_ la frase que titula el proyecto: _**El nuevo método de los delincuentes**_. Los versos son distribuídos al azar en un plano tridimensional acompañados de audio posicional. Este proyecto fué construído para una colaboración entre el colectivo maulino **cyberpunga** y la **Red de Hyperpoesía Arenales** de Perú.
 
